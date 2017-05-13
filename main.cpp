@@ -4,4 +4,5 @@ int main()
 {
     interface program;
     program.manager();
+    return 0;
 }
